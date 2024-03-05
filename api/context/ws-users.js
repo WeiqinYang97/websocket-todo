@@ -1,0 +1,3 @@
+const wsUsers = {};
+
+export { wsUsers };
